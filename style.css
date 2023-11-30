@@ -37,20 +37,18 @@ ul {
     padding-right: 200px;
 }
 
-.img-placeholder {
-    display: flex;
-    padding: 100px 150px 100px 150px;
-    margin-top: 100px;
-    background-color: #73808c;
-    color: #E5E7EB;
-}
-
 .intro-text {
     display: flex;
     flex-direction: column;
-    margin-top: 100px;
+    margin: 100px 20px 0px 0px;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
 }
 
 button {
@@ -58,3 +56,13 @@ button {
     color: #F9FAF8;
     border-radius: 12px;
 }
+
+/*
+.img-placeholder {
+    display: flex;
+    padding: 100px 150px 100px 150px;
+    margin-top: 100px;
+    background-color: #73808c;
+    color: #E5E7EB;
+}*/
+

@@ -93,14 +93,3 @@ h2 {
     display: flex;
 }
 
-.first-pic, .second-pic, .third-pic, .fourth-pic {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 150px;
-    height: 150px;
-    border: 4px solid #3882f6;
-    border-radius: 10%;
-    gap: 10px;
-}
-

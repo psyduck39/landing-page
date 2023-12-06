@@ -74,7 +74,7 @@ button {
     display: flex;
     padding: 100px 150px 100px 150px;
     margin-top: 100px;
-    margin-left: 600px;
+    margin-left: 400px;
     background-color: #73808c;
     color: #E5E7EB;
 }
@@ -87,20 +87,6 @@ h2 {
     justify-content: center;
     align-items: center;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
-.second-part {
-    display: flex;
-    justify-content: center;
-}
-
-.pictures {
-    display: flex;
-}
-
-.first-pic, .second-pic, .third-pic, .fourth-pic {
-    border: 2px solid #3882f6;
-    border-radius: 8%;
-    width: 100px;
-    height: 100px
-}

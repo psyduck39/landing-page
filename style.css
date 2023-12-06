@@ -91,5 +91,16 @@ h2 {
 
 .second-part {
     display: flex;
+    justify-content: center;
 }
 
+.pictures {
+    display: flex;
+}
+
+.first-pic, .second-pic, .third-pic, .fourth-pic {
+    border: 2px solid #3882f6;
+    border-radius: 8%;
+    width: 100px;
+    height: 100px
+}

@@ -90,3 +90,15 @@ h2 {
     margin-bottom: 50px;
 }
 
+img {
+    border: 3px solid #3882f6;
+    width: 140px;
+    height: 140px;
+    border-radius: 10%;
+}
+
+.second-part {
+    display: flex;
+    gap: 52px;
+    justify-content: center;
+}

@@ -111,6 +111,8 @@ img {
 }
 
 .quote {
-    font-size: 36px light italic;
-    color: #1F2937;
+  font-size: 36px light italic;
+  color: #1F2937;
+  width: 400px;
+  height: 200px;    
 }
